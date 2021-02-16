@@ -2,7 +2,6 @@
 <h3 align="center">I am a kind of hard working, honest, creative and dependable person who is great at time management. In the free time used to do graphic designing with my imaginative ideas. Always in hunger or excited to learn new things related with the computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer-rmk&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer-rmk" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer-rmk&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer-rmk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizer-rmk" alt="kaizer-rmk" /></a> </p>
 
@@ -29,6 +28,5 @@
 ### STATS
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /></p>
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> |
+|:----------------:|:--------------:|
