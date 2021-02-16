@@ -27,9 +27,11 @@
 
 ### STATS
 -------
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></div>
-<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></div>
+
+<div>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> 
 </p>
+ </div>
