@@ -31,7 +31,7 @@
 
 <div>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> 
+<img  src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> 
 </p>
  </div>
