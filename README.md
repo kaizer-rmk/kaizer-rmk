@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm <MUKESH KUMAR/>\<\/h1\>
+<h1 align="center">Hello World 👋, I'm MUKESH KUMAR
 <h3 align="center">I am a kind of hard working, honest, creative and dependable person who is great at time management. In the free time used to do graphic designing with my imaginative ideas. Always in hunger or excited to learn new things related with the computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer-rmk&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer-rmk" /> </p>
