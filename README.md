@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/mukeshk40951914" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mukeshk40951914" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukesh-kumar-288b1819b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-kumar-288b1819b" height="30" width="40" /></a>
-<a href="https://fb.com/mukesh rmk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh rmk" height="30" width="40" /></a>
+<a href="https://fb.com/kaizerRMK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh rmk" height="30" width="40" /></a>
 <a href="https://instagram.com/krazy_kaizer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krazy_kaizer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukesh_rmk2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mukesh_rmk2001" height="30" width="40" /></a>
 </p>
@@ -49,7 +49,7 @@
 
 ### STATS
 -------
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></div>
 
 <div>
 <p>
