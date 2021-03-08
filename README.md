@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter, MongoDB**
 
-- 💬 Ask me about **react, python**
-
 - 📫 How to reach me **mukesh.india9991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
