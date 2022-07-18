@@ -24,13 +24,11 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-![Facebook]<a href="https://fb.com/kaizerRMK" target="blank"><img alt="Website" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-![Instagram]<a href="https://instagram.com/krazy_kaizer" target="blank">(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-![LinkedIn]<a href="https://linkedin.com/in/mukesh-kumar-288b1819b" target="blank">(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  ![Facebook]<a href="https://fb.com/kaizerRMK" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  ![Instagram]<a href="https://instagram.com/krazy_kaizer" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  ![LinkedIn]<a href="https://linkedin.com/in/mukesh-kumar-288b1819b" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ---
 ### 🛠 &nbsp;Languages and Tools
 
