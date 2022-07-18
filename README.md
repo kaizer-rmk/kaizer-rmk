@@ -13,9 +13,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+<a href="https://github.com/kaizer-rmk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaizer-rmk&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaizer-rmk&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
@@ -24,9 +24,9 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-  ![Facebook]<a href="https://fb.com/kaizerRMK" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-  ![Instagram]<a href="https://instagram.com/krazy_kaizer" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  ![LinkedIn]<a href="https://linkedin.com/in/mukesh-kumar-288b1819b" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://fb.com/kaizerRMK" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://instagram.com/krazy_kaizer" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/mukesh-kumar-288b1819b](https://www.linkedin.com/in/mukesh-k-288b1819b/)" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
