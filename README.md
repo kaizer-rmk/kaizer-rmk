@@ -1,23 +1,34 @@
-<h1 align="center">Hello World 👋, I'm MUKESH KUMAR
-<h3 align="center">I am a kind of hard working, honest, creative and dependable person who is great at time management. In the free time used to do graphic designing with my imaginative ideas. Always in hunger or excited to learn new things related with the computer science.</h3>
+<h1 align="center">Hello World 👋, Mukesh this side!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizer-rmk&label=Profile%20views&color=0e75b6&style=flat" alt="kaizer-rmk" /> </p>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaizer-rmk" alt="kaizer-rmk" /></a> </p>
-
-- 🔭 I’m currently working on **MedicPulse**
-
-- 🌱 I’m currently learning **Flutter, MongoDB**
-
+- 🤔 &nbsp; Upcoming Software Developer.
+- 💼 &nbsp; On the Way to Complete Masters In Computer Application.
+- 🌱 &nbsp; Learning more about DataStructure & Algorithm, Machine Learning, Cloud Computing.
+- ⚡️ &nbsp; Fun Fact: I like playing BGMI :)
 - 📫 How to reach me **mukesh.india9991@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ShubhamSarda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+---
+
+
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/mukeshk40951914" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mukeshk40951914" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukesh-kumar-288b1819b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukesh-kumar-288b1819b" height="30" width="40" /></a>
 <a href="https://fb.com/kaizerRMK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mukesh rmk" height="30" width="40" /></a>
 <a href="https://instagram.com/krazy_kaizer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krazy_kaizer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mukesh_rmk2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mukesh_rmk2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,13 +55,4 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-### STATS
--------
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer-rmk&show_icons=true&locale=en&layout=compact" alt="kaizer-rmk" /></div>
-
-<div>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer-rmk&show_icons=true&locale=en" alt="kaizer-rmk" /> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizer-rmk&" alt="kaizer-rmk" /> 
-</p>
  </div>
