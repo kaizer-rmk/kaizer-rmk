@@ -29,18 +29,6 @@
   <a href="https://www.linkedin.com/in/mukesh-k-288b1819b/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
   
-### Blogs posts
-
-  - Comming Soon
-<!-- BLOG-POST-LIST:START 
-- [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
-- [Top 50 Python Interview Questions For Freshers](https://unwiredlearning.com/blog/top-50-python-interview-questions-for-freshers-theory-version/)
-- [Django Vs Flask – Which One Should You Learn In 2020?](https://unwiredlearning.com/blog/django-vs-flask/)
-- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
-BLOG-POST-LIST:END -->
-
----
-
 ---
 ### 🛠 &nbsp;Languages and Tools
 
@@ -59,6 +47,18 @@ BLOG-POST-LIST:END -->
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+---
+  ### Blogs posts
+
+  - Comming Soon
+<!-- BLOG-POST-LIST:START 
+- [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
+- [Top 50 Python Interview Questions For Freshers](https://unwiredlearning.com/blog/top-50-python-interview-questions-for-freshers-theory-version/)
+- [Django Vs Flask – Which One Should You Learn In 2020?](https://unwiredlearning.com/blog/django-vs-flask/)
+- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
+BLOG-POST-LIST:END -->
+
 
 ---
 
