@@ -28,6 +28,18 @@
   <a href="https://instagram.com/krazy_kaizer" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mukesh-k-288b1819b/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+  
+### Blogs posts
+
+  - Comming Soon
+<!-- BLOG-POST-LIST:START 
+- [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
+- [Top 50 Python Interview Questions For Freshers](https://unwiredlearning.com/blog/top-50-python-interview-questions-for-freshers-theory-version/)
+- [Django Vs Flask – Which One Should You Learn In 2020?](https://unwiredlearning.com/blog/django-vs-flask/)
+- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
+BLOG-POST-LIST:END -->
+
+---
 
 ---
 ### 🛠 &nbsp;Languages and Tools
