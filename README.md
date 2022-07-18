@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://fb.com/kaizerRMK" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
   <a href="https://instagram.com/krazy_kaizer" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="[https://linkedin.com/in/mukesh-kumar-288b1819b](https://www.linkedin.com/in/mukesh-k-288b1819b/)" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mukesh-k-288b1819b/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
