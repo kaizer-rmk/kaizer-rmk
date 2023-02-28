@@ -54,13 +54,11 @@
 ---
   ### Blogs posts
 
-  - Comming Soon
-BLOG-POST-LIST:START 
 - [Salary Prediction Application Using ML inside Docker Container](https://medium.com/@mukeshrmk/salary-prediction-application-using-ml-inside-docker-container-ac1514178a54)
 - [Running GUI Software on Docker Container](https://medium.com/@mukeshrmk/running-gui-software-on-docker-container-836e5462e565)
 - [Image Processing using OpenCV](https://medium.com/@mukeshrmk/image-processing-using-opencv-b53cd567e742)
 - [Industrial UseCase of JavaScript | Facebook](https://medium.com/@mukeshrmk/industrial-usecase-of-javascript-facebook-3079c1d8f28c)
-BLOG-POST-LIST:END
+
 
 
 ---
