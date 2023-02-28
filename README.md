@@ -55,12 +55,12 @@
   ### Blogs posts
 
   - Comming Soon
-<!-- BLOG-POST-LIST:START 
-- [How To Get Internship – Complete Internship Search Guide](https://unwiredlearning.com/blog/complete-internship-guide/)
-- [Top 50 Python Interview Questions For Freshers](https://unwiredlearning.com/blog/top-50-python-interview-questions-for-freshers-theory-version/)
-- [Django Vs Flask – Which One Should You Learn In 2020?](https://unwiredlearning.com/blog/django-vs-flask/)
-- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/)
-BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START 
+- [Salary Prediction Application Using ML inside Docker Container](https://medium.com/@mukeshrmk/salary-prediction-application-using-ml-inside-docker-container-ac1514178a54)
+- [Running GUI Software on Docker Container](https://medium.com/@mukeshrmk/running-gui-software-on-docker-container-836e5462e565)
+- [Image Processing using OpenCV](https://medium.com/@mukeshrmk/image-processing-using-opencv-b53cd567e742)
+- [Industrial UseCase of JavaScript | Facebook](https://medium.com/@mukeshrmk/industrial-usecase-of-javascript-facebook-3079c1d8f28c)
+BLOG-POST-LIST:END
 
 
 ---
