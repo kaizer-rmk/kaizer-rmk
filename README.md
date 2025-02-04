@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Upcoming Software Developer.
-- 💼 &nbsp; On the Way to Complete Masters In Computer Application.
-- 🌱 &nbsp; Learning more about DataStructure & Algorithm, Machine Learning, Cloud Computing and Flutter.
-- ⚡️ &nbsp; Fun Fact: I like playing BGMI and Valorent :)
+- 🤔 &nbsp; Software Engineer
+- 💼 &nbsp; Master of Computer Application
+- 🌱 &nbsp; PriceFx, DataStructure & Algorithm, Machine Learning, Cloud Computing and Flutter.
+- ⚡️ &nbsp; I like playing Valorent :)
 - 📫 How to reach me **mukesh.india9991@gmail.com**
 
 ---
